@@ -1,0 +1,28 @@
+.image-wrapper {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.image-wrapper img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+h2{
+    font-family:  Playfair Display;
+    font-weight: 600;
+
+}
+
+/* #hh{
+  
+    margin-top: 200px;
+    margin-left: 480px;
+    margin-right: 480px;
+    background-color: #45444492;
+   
+} */

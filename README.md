@@ -86,7 +86,7 @@ A full-stack online bookstore that empowers readers to explore, purchase, and ma
 
 ## 📄 Documentation
 
-* 📥 [Download Full PDF Report](./FSD_Documentation.pdf)
+* 📥 [Download Full PDF Report]: https://drive.google.com/file/d/1Pbq06kH6T6LgExSfJh0ZJQzFyzUFzL7z/view?usp=drivesdk
 
 ---
 
